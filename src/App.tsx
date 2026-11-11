@@ -171,8 +171,8 @@ export default function App() {
               variants={fadeInVariants}
               className="text-base sm:text-lg md:text-xl text-[#9FA6A8] max-w-2xl leading-relaxed mb-10 md:mb-12 break-keep"
             >
-              복잡한 수식과 딱딱한 이론을 걷어내고, 내 일과 업무에 지금 즉시
-              적용하는 실천적 생성형 AI 강의를 선보입니다.
+              어려운 기술 용어와 막연한 이론 대신, 실무 현장에 곧바로
+              적용할 수 있는 가장 쉽고 직관적인 생성형 AI 교육을 제공합니다.
             </motion.p>
 
             {/* 연락 버튼 하나 */}
